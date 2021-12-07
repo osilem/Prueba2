@@ -1,0 +1,5 @@
+1-.git clone url del directorio a clonar.
+2-.git status ver el estatus del repositorio que has hecho de nuevo
+3-.git commit -m "agrege algo" esto es para varciarlo a al area de trabajo
+4-.git add es para agregar lo que hiciste 
+5-.git diff espara aser casi lo mismo
